@@ -2,7 +2,6 @@
   "name": "niver-gabriel",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "dev": "parcel src/index.html src/styles/components/main.scss src/scripts/main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
